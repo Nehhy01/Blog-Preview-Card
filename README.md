@@ -16,7 +16,7 @@
 
 ### Links
 - Solution URL: [Github solution](https://github.com/Nehhy01/Blog-Preview-Card.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://nehhy01.github.io/blog-Preview-Card)
 
 ## My process
 
@@ -38,7 +38,7 @@ It was fun :)
 
 ## Author
 - Frontend Mentor - [@nehhy01](https://www.frontendmentor.io/profile/nehhy01)
-- GitHub - [@Nehhy01] (https://github.com/Nehhy01)
+- GitHub - [Nehhy01] (https://github.com/Nehhy01)
 
 
 ## Acknowledgments

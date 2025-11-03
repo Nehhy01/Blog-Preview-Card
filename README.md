@@ -30,8 +30,22 @@
 ### What I learned
 
 This project was a simple one.
-I learnt the difference between 
-The main thing i learnt was interepreting a figma file for my development.
+I learnt a great CSS trick. The difference between an instance like this:
+div p {
+
+}
+
+and 
+
+div > p {
+
+}
+
+The former style applies to all p-tags in the div including those inside a sub tag.
+The latter only applies to p-tags directly inside the div-tag.
+
+
+Another thing i learnt was interepreting a figma file for my development.
 I extracted useful info like font size, spacing, color withoud depending on the /asset folder that came with this starter folder.
 It was fun :)
 

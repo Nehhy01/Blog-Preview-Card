@@ -16,7 +16,7 @@
 
 ### Links
 - Solution URL: [Github solution](https://github.com/Nehhy01/Blog-Preview-Card.git)
-- Live Site URL:(https://nehhy01.github.io/blog-Preview-Card)
+- Live Site URL:(https://nehhy01.github.io/Blog-Preview-Card)
 
 ## My process
 

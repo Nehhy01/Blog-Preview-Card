@@ -1,0 +1,83 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: Fig-Tree;
+  src: url(./assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+*,
+html {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  /* font-weight: 600; */
+  color: hsl(0, 0%, 7%);
+  font-family: "Fig-Tree", sans-serif;
+  background-color: hsl(47, 88%, 63%);
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container {
+  width: 375px;
+  font-weight: 600;
+  background-color: hsl(0, 0%, 100%);
+  margin: 20px;
+  padding: 20px;
+  flex-direction: column;
+  justify-content: center;
+  border: 1.5px solid black;
+  border-radius: 16px;
+  box-shadow: 8px 8px 0 hsl(0, 0%, 0%);
+}
+
+.container h2 {
+  margin: 18px 0;
+  font-weight: 800;
+}
+
+.learning {
+  background-color: hsl(47, 88%, 63%);
+  display: inline-block;
+  font-size: 15px;
+  border-radius: 5px;
+  font-weight: 800;
+  padding: 6px 12px;
+  margin: 14px 0;
+}
+
+
+.container img {
+  border-radius: 12px;
+  width: 100%;
+}
+
+.description {
+  color: hsl(0, 0%, 50%);
+  line-height: 1.5;
+}
+
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 15px;
+  margin-top: 18px;
+  font-weight: 800;
+}
+.author img {
+  width: 28px;
+}
